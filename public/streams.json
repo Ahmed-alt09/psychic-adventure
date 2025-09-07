@@ -1,19 +1,1066 @@
 [
-    {
-      "id": "Nicktoons.-.East.us",
-      "categoryId": "1",
-      "name": "Nicktoons",
-      "hls": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
-      "backdrop": "https://api-streamio-production.up.railway.app/channel/68277f552d843a9cb86663f4/backdrop.png",
-      "imageUrl": "https://canvas-lb.tubitv.com/opts/X64MlRvuEKn1ZQ==/7d258341-afc7-4022-acd4-ce330c6db573/CHgQeDoFMS4xLjhAAQ=="
-    },
-    {
-      "id": "Nicktoons.-.East.us",
-      "categoryId": "2",
-      "name": "Crime TV",
-      "hls": "https://fl1.moveonjoy.com/CRIMETV/index.m3u8",
-      "backdrop": "https://api-streamio-production.up.railway.app/channel/68277f552d843a9cb86663f4/backdrop.png",
-      "imageUrl": "https://canvas-lb.tubitv.com/opts/X64MlRvuEKn1ZQ==/7d258341-afc7-4022-acd4-ce330c6db573/CHgQeDoFMS4xLjhAAQ=="
-    }
-  ]
-  
+  {
+    "id": "ABC.(WOLO).Columbia,.SC.us",
+    "categoryId": "2",
+    "name": "ABC 25 Columbia",
+    "hls": "https://fl1.moveonjoy.com/ABC_EAST/index.m3u8",
+    "backdrop": "",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Amc_logo.svg"
+  },
+  {
+    "id": "ACC.Network.us",
+    "categoryId": "4",
+    "name": "ACCN",
+    "hls": "https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "AMC.-.Eastern.Feed.us",
+    "categoryId": "20",
+    "name": "AMC East",
+    "hls": "https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "ASPiRE.TV.us",
+    "categoryId": "14",
+    "name": "Aspire",
+    "hls": "https://fl3.moveonjoy.com/Aspire/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "BBC.America.-.East.us",
+    "categoryId": "14",
+    "name": "BBC America East",
+    "hls": "https://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "BBC.World.News.North.America.(BBCWN).us",
+    "categoryId": "2",
+    "name": "BBC News North America",
+    "hls": "https://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "BET.-.Eastern.Feed.us",
+    "categoryId": "14",
+    "name": "BET East",
+    "hls": "https://fl3.moveonjoy.com/BET_EAST/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "BET.Gospel.us",
+    "categoryId": "23",
+    "name": "BET Gospel",
+    "hls": "https://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "BET.Her.us",
+    "categoryId": "14",
+    "name": "BET Her East",
+    "hls": "https://fl3.moveonjoy.com/BET_HER/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "BET.Jams.(BETJ).us",
+    "categoryId": "3",
+    "name": "BET Jams",
+    "hls": "https://fl3.moveonjoy.com/BET_Jams/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "BET.Soul.us",
+    "categoryId": "3",
+    "name": "BET Soul",
+    "hls": "https://fl3.moveonjoy.com/BET_SOUL/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "beIN.Sport.USA.us",
+    "categoryId": "4",
+    "name": "beIN Sports USA",
+    "hls": "http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Big.Ten.Network.us",
+    "categoryId": "4",
+    "name": "Big Ten Network",
+    "hls": "https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Bloomberg.TV.USA.us",
+    "categoryId": "7",
+    "name": "Bloomberg TV",
+    "hls": "https://fl3.moveonjoy.com/BLOOMBERG/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Bounce.TV.us",
+    "categoryId": "14",
+    "name": "Bounce",
+    "hls": "https://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Bravo.USA.-.Eastern.Feed.us",
+    "categoryId": "14",
+    "name": "Bravo East",
+    "hls": "https://fl3.moveonjoy.com/BRAVO/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Buzzr.TV.us",
+    "categoryId": "16",
+    "name": "Buzzr",
+    "hls": "https://fl3.moveonjoy.com/Buzzr/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "C-SPAN.us",
+    "categoryId": "18",
+    "name": "C-SPAN",
+    "hls": "https://fl3.moveonjoy.com/C-SPAN/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "CBS.(WCBS).New.York,.NY.us",
+    "categoryId": "2",
+    "name": "CBS East",
+    "hls": "https://fl3.moveonjoy.com/CBS_News/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "CBS.Sports.Network.USA.us",
+    "categoryId": "4",
+    "name": "CBS Sports Network USA",
+    "hls": "https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "CLEO.TV.us",
+    "categoryId": "14",
+    "name": "Cleo TV",
+    "hls": "https://fl3.moveonjoy.com/Cleo_TV/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "CMT.US.-.Eastern.Feed.us",
+    "categoryId": "3",
+    "name": "CMT East",
+    "hls": "https://fl3.moveonjoy.com/CMT/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "CNBC.USA.us",
+    "categoryId": "7",
+    "name": "CNBC",
+    "hls": "https://fl3.moveonjoy.com/CNBC/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "CNBC.World.us",
+    "categoryId": "7",
+    "name": "CNBC",
+    "hls": "https://fl5.moveonjoy.com/CNBC/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Comedy.Central.(US).-.Eastern.Feed.us",
+    "categoryId": "9",
+    "name": "Comedy Central East",
+    "hls": "https://fl3.moveonjoy.com/Comedy_Central/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Comet.TV.us",
+    "categoryId": "25",
+    "name": "Comet",
+    "hls": "https://fl3.moveonjoy.com/COMET/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Court.TV.US.us",
+    "categoryId": "18",
+    "name": "Court TV",
+    "hls": "https://fl3.moveonjoy.com/COURT_TV/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Cozi.TV.us",
+    "categoryId": "16",
+    "name": "Cozi TV",
+    "hls": "https://fl3.moveonjoy.com/COZI_TV/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Crave1.-.East.ca",
+    "categoryId": "20",
+    "name": "Crave 1",
+    "hls": "https://fl3.moveonjoy.com/CRAVE_1/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Crave2.-.East.ca",
+    "categoryId": "20",
+    "name": "Crave 2",
+    "hls": "https://fl3.moveonjoy.com/CRAVE_2/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Crave3.-.East.ca",
+    "categoryId": "20",
+    "name": "Crave 3",
+    "hls": "https://fl3.moveonjoy.com/CRAVE_3/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Crave4.ca",
+    "categoryId": "20",
+    "name": "Crave 4",
+    "hls": "https://fl3.moveonjoy.com/CRAVE_4/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Curiosity.Channel(Stream).us",
+    "categoryId": "12",
+    "name": "CuriosityStream",
+    "hls": "https://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Disney.-.Eastern.Feed.us",
+    "categoryId": "17",
+    "name": "Disney Channel East",
+    "hls": "https://fl5.moveonjoy.com/DISNEY/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Disney.Junior.USA.-.East.us",
+    "categoryId": "17",
+    "name": "Disney Junior East",
+    "hls": "https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "E!.Entertainment.USA.-.Eastern.Feed.us",
+    "categoryId": "14",
+    "name": "E! East",
+    "hls": "https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "ESPNU.On.Demand.us",
+    "categoryId": "4",
+    "name": "ESPN U",
+    "hls": "https://fl3.moveonjoy.com/ESPN_U/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "ESPN.News.us",
+    "categoryId": "4",
+    "name": "ESPNews",
+    "hls": "https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Fox.Business.us",
+    "categoryId": "7",
+    "name": "Fox Business Network",
+    "hls": "https://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Fox.News.us",
+    "categoryId": "2",
+    "name": "Fox News Channel",
+    "hls": "https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "FOX.(KTTV).Los.Angeles,.CA.us",
+    "categoryId": "2",
+    "name": "Fox News Channel",
+    "hls": "https://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "FOX.(WNYW).New.York,.NY.us",
+    "categoryId": "2",
+    "name": "Fox News Channel",
+    "hls": "https://fl4.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "FOX.(WNYW).New.York,.NY.us",
+    "categoryId": "2",
+    "name": "Fox News Channel",
+    "hls": "https://fl5.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "FOX.(WNYW).New.York,.NY.us",
+    "categoryId": "2",
+    "name": "Fox News Channel",
+    "hls": "https://fl6.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "FOX.(WNYW).New.York,.NY.us",
+    "categoryId": "3",
+    "name": "Fox Soul",
+    "hls": "https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Fox.Sports.1.us",
+    "categoryId": "4",
+    "name": "Fox Sports 1",
+    "hls": "https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Freeform.-.East.Feed.us",
+    "categoryId": "14",
+    "name": "Free form East",
+    "hls": "https://fl3.moveonjoy.com/FREE_FORM/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "FUSE.TV.-.Eastern.feed.us",
+    "categoryId": "3",
+    "name": "Fuse East",
+    "hls": "https://fl3.moveonjoy.com/FUSE/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "FX.Networks.East.Coast.us",
+    "categoryId": "14",
+    "name": "FX East",
+    "hls": "https://fl5.moveonjoy.com/FX/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "FX.Movie.Channel.us",
+    "categoryId": "20",
+    "name": "FXM East",
+    "hls": "https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "FXX.USA.-.Eastern.us",
+    "categoryId": "14",
+    "name": "FXX East",
+    "hls": "https://fl3.moveonjoy.com/FXX/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "FYI.USA.-.Eastern.us",
+    "categoryId": "19",
+    "name": "FYI East",
+    "hls": "https://fl3.moveonjoy.com/FYI/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Get.TV.us",
+    "categoryId": "16",
+    "name": "GetTV",
+    "hls": "https://fl3.moveonjoy.com/GET_TV/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Grit.TV.us",
+    "categoryId": "20",
+    "name": "Grit",
+    "hls": "https://fl3.moveonjoy.com/GRIT_TV/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Hallmark.-.Eastern.Feed.us",
+    "categoryId": "15",
+    "name": "Hallmark Channel East",
+    "hls": "https://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Hallmark.Family.HDTV.us",
+    "categoryId": "15",
+    "name": "Hallmark Drama",
+    "hls": "https://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Hallmark.Mystery.Eastern.-.HD.us",
+    "categoryId": "20",
+    "name": "Hallmark Movies Mysteries East",
+    "hls": "https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "HSN.Home.Shopping.Network.us",
+    "categoryId": "26",
+    "name": "HSN",
+    "hls": "https://fl3.moveonjoy.com/HSN/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "INSP.us",
+    "categoryId": "23",
+    "name": "INSP",
+    "hls": "https://fl3.moveonjoy.com/INSP/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "ION.Plus.TV.us",
+    "categoryId": "16",
+    "name": "ION Plus East",
+    "hls": "https://fl3.moveonjoy.com/ION_Plus/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "ION..-.Eastern.Feed.us",
+    "categoryId": "16",
+    "name": "ION TV East",
+    "hls": "https://fl3.moveonjoy.com/ION_TV/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Lifetime.Network.US.-.Eastern.Feed.us",
+    "categoryId": "19",
+    "name": "Lifetime East",
+    "hls": "https://fl3.moveonjoy.com/LIFETIME/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Lifetime.Movies.-.East.us",
+    "categoryId": "20",
+    "name": "Lifetime Movies East",
+    "hls": "https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Love.Nature.ca",
+    "categoryId": "12",
+    "name": "Love Nature",
+    "hls": "https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "plex.tv.MAVTV.Select.plex",
+    "categoryId": "5",
+    "name": "MAV TV",
+    "hls": "https://fl3.moveonjoy.com/MAV_TV/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "MGM+.HDTV.(East).(MGM+HD).us",
+    "categoryId": "20",
+    "name": "MGM+ East",
+    "hls": "https://fl3.moveonjoy.com/EPIX/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "MGM+.Marquee.HDTV.(East).(MGM+MRQ).us",
+    "categoryId": "20",
+    "name": "MGM+ Marquee",
+    "hls": "https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "MLB.Network.us",
+    "categoryId": "4",
+    "name": "MLB Network",
+    "hls": "https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "MSG.2.us",
+    "categoryId": "4",
+    "name": "MSG",
+    "hls": "https://fl3.moveonjoy.com/MSG/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "MTV.2.-.East.us",
+    "categoryId": "3",
+    "name": "MTV2",
+    "hls": "https://fl5.moveonjoy.com/MTV_2/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "MTV.2.-.East.us",
+    "categoryId": "3",
+    "name": "MTV2 East",
+    "hls": "https://fl3.moveonjoy.com/MTV_2/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "MTV.Classic.-.East.us",
+    "categoryId": "3",
+    "name": "MTV Classic",
+    "hls": "https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "MTV.Classic.-.East.us",
+    "categoryId": "3",
+    "name": "MTV Classic East",
+    "hls": "https://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "MTV.USA.-.Eastern.Feed.us",
+    "categoryId": "3",
+    "name": "MTV East",
+    "hls": "https://fl3.moveonjoy.com/MTV/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "MTV.Live.HD.us",
+    "categoryId": "3",
+    "name": "MTV Live",
+    "hls": "https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "MTV.Live.HD.us",
+    "categoryId": "3",
+    "name": "MTV Live",
+    "hls": "https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "MTV-U.(MTV-U).us",
+    "categoryId": "3",
+    "name": "mtvU",
+    "hls": "https://fl5.moveonjoy.com/MTV_U/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "MTV-U.(MTV-U).us",
+    "categoryId": "3",
+    "name": "MTVU",
+    "hls": "https://fl3.moveonjoy.com/MTV_U/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Much.Music.ca",
+    "categoryId": "3",
+    "name": "Much",
+    "hls": "https://fl1.moveonjoy.com/MUCH/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "National.Geographic.US.-.Eastern.us",
+    "categoryId": "12",
+    "name": "National Geographic East",
+    "hls": "https://fl3.moveonjoy.com/National_Geographic/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "National.Geographic.Wild.us",
+    "categoryId": "12",
+    "name": "National Geographic Wild East",
+    "hls": "https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "NBA.TV.USA.us",
+    "categoryId": "4",
+    "name": "NBA TV",
+    "hls": "https://fl3.moveonjoy.com/NBA_TV/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "NewsNation.-.Eastern.Feed.us",
+    "categoryId": "2",
+    "name": "News Nation",
+    "hls": "https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "NFL.Network.us",
+    "categoryId": "4",
+    "name": "NFL Network",
+    "hls": "https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "NFL.RedZone.us",
+    "categoryId": "4",
+    "name": "NFL RedZone",
+    "hls": "https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "NHL.Network.USA.us",
+    "categoryId": "4",
+    "name": "NHL Network",
+    "hls": "https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Nick.Jr..-.East.us",
+    "categoryId": "17",
+    "name": "Nick Jr East",
+    "hls": "https://fl3.moveonjoy.com/NICK_JR/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Nick.Jr..-.East.us",
+    "categoryId": "17",
+    "name": "Nick Jr. East",
+    "hls": "https://fl5.moveonjoy.com/NICK_JR/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Nick.Music.(NICM).us",
+    "categoryId": "3",
+    "name": "Nick Music",
+    "hls": "https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Nick.Music.(NICM).us",
+    "categoryId": "3",
+    "name": "Nick Music",
+    "hls": "https://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Nickelodeon.USA.-.East.Feed.us",
+    "categoryId": "17",
+    "name": "Nickelodeon East",
+    "hls": "https://fl5.moveonjoy.com/NICKELODEON/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Nicktoons.-.East.us",
+    "categoryId": "17",
+    "name": "Nicktoons East",
+    "hls": "https://fl1.moveonjoy.com/NICKTOONS/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Outdoor.Channel.US.us",
+    "categoryId": "21",
+    "name": "Outdoor Channel",
+    "hls": "https://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "OuterMax.us@East",
+    "categoryId": "20",
+    "name": "OuterMax East",
+    "hls": "https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "plex.tv.Outside.plex",
+    "categoryId": "21",
+    "name": "Outside TV",
+    "hls": "https://fl3.moveonjoy.com/OUTSIDE_TV/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Ovation.us",
+    "categoryId": "11",
+    "name": "Ovation",
+    "hls": "https://fl3.moveonjoy.com/Ovation/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Oxygen.-.Eastern.Feed.us",
+    "categoryId": "14",
+    "name": "Oxygen East",
+    "hls": "https://fl3.moveonjoy.com/OXYGEN/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Paramount.Network.USA.-.Eastern.Feed.us",
+    "categoryId": "14",
+    "name": "Paramount Network East",
+    "hls": "https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Pursuit.Channel.us",
+    "categoryId": "21",
+    "name": "Pursuit Channel",
+    "hls": "https://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "QVC.us",
+    "categoryId": "26",
+    "name": "QVC",
+    "hls": "https://fl3.moveonjoy.com/QVC/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "ReelzChannel.us",
+    "categoryId": "20",
+    "name": "Reelz",
+    "hls": "https://fl3.moveonjoy.com/REELZ/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Revolt.TV.us",
+    "categoryId": "3",
+    "name": "Revolt",
+    "hls": "https://fl3.moveonjoy.com/REVOLT/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Showtime.2.-.Eastern.us",
+    "categoryId": "20",
+    "name": "Showtime 2 East",
+    "hls": "https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Showtime.2.-.Eastern.us",
+    "categoryId": "20",
+    "name": "Showtime East",
+    "hls": "https://fl3.moveonjoy.com/SHOWTIME/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Showtime.Next.HD.-.Eastern.us",
+    "categoryId": "20",
+    "name": "Showtime Next East",
+    "hls": "https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Showtime.us@West",
+    "categoryId": "20",
+    "name": "Showtime West",
+    "hls": "https://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Showtime.Women.HD.-.Eastern.us",
+    "categoryId": "20",
+    "name": "Showtime Women East",
+    "hls": "https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Smithsonian.Channel.USA.HD.us",
+    "categoryId": "12",
+    "name": "Smithsonian Channel East",
+    "hls": "https://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Sportsman.Channel.us",
+    "categoryId": "21",
+    "name": "Sportsman Channel",
+    "hls": "https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "SNY:.SportsNet.New.York.(Comcast).us",
+    "categoryId": "4",
+    "name": "SportsNet New York",
+    "hls": "https://fl3.moveonjoy.com/SNY/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Start.TV.us",
+    "categoryId": "16",
+    "name": "Start TV",
+    "hls": "https://fl3.moveonjoy.com/Start_Tv/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Starz.-.Eastern.us",
+    "categoryId": "20",
+    "name": "Starz East",
+    "hls": "https://fl3.moveonjoy.com/STARZ/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Starz.Encore.Classic.-.Eastern.us",
+    "categoryId": "20",
+    "name": "Starz Encore Classic East",
+    "hls": "https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Starz.us@West",
+    "categoryId": "20",
+    "name": "Starz West",
+    "hls": "https://fl3.moveonjoy.com/STARZ_WEST/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "SundanceTV.USA.-.East.us",
+    "categoryId": "20",
+    "name": "Sundance TV East",
+    "hls": "https://fl3.moveonjoy.com/SUNDANCE/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "Syfy.-.Eastern.Feed.us",
+    "categoryId": "25",
+    "name": "Syfy East",
+    "hls": "https://fl3.moveonjoy.com/SYFY/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "The.Tennis.Channel.us",
+    "categoryId": "4",
+    "name": "Tennis Channel",
+    "hls": "https://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "TSN1.ca",
+    "categoryId": "4",
+    "name": "TSN1",
+    "hls": "https://fl5.moveonjoy.com/TSN_1/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "TSN2.ca",
+    "categoryId": "4",
+    "name": "TSN2",
+    "hls": "https://fl5.moveonjoy.com/TSN_2/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "TSN3.ca",
+    "categoryId": "4",
+    "name": "TSN3",
+    "hls": "https://fl5.moveonjoy.com/TSN_3/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "TSN4.ca",
+    "categoryId": "4",
+    "name": "TSN4",
+    "hls": "https://fl5.moveonjoy.com/TSN_4/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "TSN5.ca",
+    "categoryId": "4",
+    "name": "TSN5",
+    "hls": "https://fl5.moveonjoy.com/TSN_5/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "TV.One.us",
+    "categoryId": "14",
+    "name": "TV One",
+    "hls": "https://fl3.moveonjoy.com/TV_ONE/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "UP.us",
+    "categoryId": "15",
+    "name": "Up TV",
+    "hls": "https://fl3.moveonjoy.com/Up_Tv/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "VH1.-.Eastern.Feed.us",
+    "categoryId": "3",
+    "name": "VH1 East",
+    "hls": "https://fl3.moveonjoy.com/VH1/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "VICE.us",
+    "categoryId": "14",
+    "name": "VICE TV",
+    "hls": "https://fl3.moveonjoy.com/VICELAND/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "W.Network.Canada.East.(WTN).ca",
+    "categoryId": "19",
+    "name": "W Network",
+    "hls": "https://fl3.moveonjoy.com/W_NETWORK/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "WeTV.us@East",
+    "categoryId": "14",
+    "name": "We TV East",
+    "hls": "https://fl1.moveonjoy.com/WE_TV/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "CW.(WGNT).Hampton.Roads,.VA.us",
+    "categoryId": "16",
+    "name": "WGN-DT1",
+    "hls": "https://fl3.moveonjoy.com/WGN/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "NBC.(WNBC).New.York,.NY.us",
+    "categoryId": "2",
+    "name": "WNBC-DT1",
+    "hls": "https://fl1.moveonjoy.com/NBC_EAST/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "FOX.(WNYW).New.York,.NY.us",
+    "categoryId": "16",
+    "name": "WNYW-DT1",
+    "hls": "https://fl1.moveonjoy.com/FOX_EAST/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "World.Fishing.Network.(US).(WFN).us",
+    "categoryId": "21",
+    "name": "World Fishing Network",
+    "hls": "https://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  },
+  {
+    "id": "YES.Network.us",
+    "categoryId": "4",
+    "name": "Yes Network",
+    "hls": "https://fl3.moveonjoy.com/YES_NETWORK/index.m3u8",
+    "backdrop": "",
+    "imageUrl": ""
+  }
+]
