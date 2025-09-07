@@ -12,120 +12,120 @@
     "categoryId": "4",
     "name": "ACCN",
     "hls": "https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://espnpressroom.com/us/files/2024/05/Weeks-1-3-ACCN-Cover-1920x1080.png",
+    "imageUrl": "https://i.imgur.com/TpCkbkT.png"
   },
   {
     "id": "AMC.-.Eastern.Feed.us",
     "categoryId": "20",
     "name": "AMC East",
     "hls": "https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://seriemaniacos.tv/wp-content/uploads/2017/11/AMC-1068x628.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png"
   },
   {
     "id": "ASPiRE.TV.us",
     "categoryId": "14",
     "name": "Aspire",
     "hls": "https://fl3.moveonjoy.com/Aspire/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0BICYCIHPAA9__dVSav7a99s_iBl1XwSAhw&s",
+    "imageUrl": "https://i.imgur.com/TOM5qO6.png"
   },
   {
     "id": "BBC.America.-.East.us",
     "categoryId": "14",
     "name": "BBC America East",
     "hls": "https://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://static.wikitide.net/avidwiki/3/33/Bbcamericaogprods.jpeg",
+    "imageUrl": "https://i.imgur.com/pTiiPz0.png"
   },
   {
     "id": "BBC.World.News.North.America.(BBCWN).us",
     "categoryId": "2",
     "name": "BBC News North America",
     "hls": "https://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzu1-_Fkqii5F-9Kv5LJI3ZkUguLfF8UrPxw&s",
+    "imageUrl": "https://i.imgur.com/pTiiPz0.png"
   },
   {
     "id": "BET.-.Eastern.Feed.us",
     "categoryId": "14",
     "name": "BET East",
     "hls": "https://fl3.moveonjoy.com/BET_EAST/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://blackenterprise-prod.b-cdn.net/wp-content/blogs.dir/1/files/2024/07/IMG_4402.jpeg",
+    "imageUrl": "https://i.imgur.com/copIbc9.png"
   },
   {
     "id": "BET.Gospel.us",
     "categoryId": "23",
     "name": "BET Gospel",
     "hls": "https://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://static.wikia.nocookie.net/logopedia/images/c/c6/BET_Gospel.svg/revision/latest?cb=20170319123823",
+    "imageUrl": "https://i.imgur.com/jbOkq8C.png"
   },
   {
     "id": "BET.Her.us",
     "categoryId": "14",
     "name": "BET Her East",
     "hls": "https://fl3.moveonjoy.com/BET_HER/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://i.ytimg.com/vi/r9sJ_pUMxeE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD4_h1zb_x8hIRxtW_wywsWR_WxVQ",
+    "imageUrl": "https://i.imgur.com/oafsrlo.png"
   },
   {
     "id": "BET.Jams.(BETJ).us",
     "categoryId": "3",
     "name": "BET Jams",
     "hls": "https://fl3.moveonjoy.com/BET_Jams/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://www.hipvideopromo.com/wp-content/uploads/2021/04/BETJams-Splash-graphic-1-1-800x480.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/512px-BET_Jams_2021.png"
   },
   {
     "id": "BET.Soul.us",
     "categoryId": "3",
     "name": "BET Soul",
     "hls": "https://fl3.moveonjoy.com/BET_SOUL/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://images.paramount.tech/uri/mgid:arc:imageassetref:shared.bet.us:d79d135b-f40e-11eb-84ca-0e0dce71f2a5?quality=0.7&gen=ntrn&format=webp&height=1800&width=3200&crop=true",
+    "imageUrl": "https://i.imgur.com/VeuTWUb.png"
   },
   {
     "id": "beIN.Sport.USA.us",
     "categoryId": "4",
     "name": "beIN Sports USA",
     "hls": "http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://media.ouest-france.fr/v1/pictures/MjAyMTEwMjY0YzY0MGY2Y2MwOWFhMDczOWM1ZDMyNzA0YTc2N2I?width=630&height=354&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=2a23b18c735ba203cab190d544f9ba17601be61adbd868f6f1525c9c7f559e7c",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png"
   },
   {
     "id": "Big.Ten.Network.us",
     "categoryId": "4",
     "name": "Big Ten Network",
     "hls": "https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://static01.nyt.com/athletic/uploads/wp/2022/08/26150047/Tailgate-Crew-scaled-e1661540514496.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png"
   },
   {
     "id": "Bloomberg.TV.USA.us",
     "categoryId": "7",
     "name": "Bloomberg TV",
     "hls": "https://fl3.moveonjoy.com/BLOOMBERG/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://trusted-sec.transforms.svdcdn.com/production/images/News-Logos/bloomberg-television-01-logo-png-transparent.png?w=1200&h=630&q=82&auto=format&fit=crop&dm=1693598381&s=cbb64e0b656c30dc646000df898c7731",
+    "imageUrl": "https://i.imgur.com/OuogLHx.png"
   },
   {
     "id": "Bounce.TV.us",
     "categoryId": "14",
     "name": "Bounce",
     "hls": "https://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlop5Yf0YuJLcNlOI6DEyaSecHvHRF-gspNQ&s",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png"
   },
   {
     "id": "Bravo.USA.-.Eastern.Feed.us",
     "categoryId": "14",
     "name": "Bravo East",
     "hls": "https://fl3.moveonjoy.com/BRAVO/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://www.peacocktv.com/dam/growth/assets/Collections/collections-main/bravo-hub-collections.jpg",
+    "imageUrl": "https://i.imgur.com/JmTIRLF.png"
   },
   {
     "id": "Buzzr.TV.us",
@@ -385,7 +385,7 @@
   },
   {
     "id": "FX.Networks.East.Coast.us",
-    "categoryId": "14",
+    "categoryId": "20",
     "name": "FX East",
     "hls": "https://fl5.moveonjoy.com/FX/index.m3u8",
     "backdrop": "",
