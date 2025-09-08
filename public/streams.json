@@ -412,295 +412,295 @@
     "categoryId": "19",
     "name": "FYI East",
     "hls": "https://fl3.moveonjoy.com/FYI/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://sayitnessie.wordpress.com/wp-content/uploads/2014/09/fyi-logo-2.png",
+    "imageUrl": "https://i.imgur.com/PggQk7F.png"
   },
   {
     "id": "Get.TV.us",
     "categoryId": "16",
     "name": "GetTV",
     "hls": "https://fl3.moveonjoy.com/GET_TV/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://cdn.prod.website-files.com/5ebb0a75e089719bcd83663c/60e6990f75c86a1d824d6c10_gettv.png",
+    "imageUrl": "https://i.imgur.com/evOWORd.png"
   },
   {
     "id": "Grit.TV.us",
     "categoryId": "20",
     "name": "Grit",
     "hls": "https://fl3.moveonjoy.com/GRIT_TV/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://www.newscaststudio.com/wp-content/uploads/2023/02/grit-2023-rebranding.jpg",
+    "imageUrl": "https://i.imgur.com/6w1Wj3j.png"
   },
   {
     "id": "Hallmark.-.Eastern.Feed.us",
     "categoryId": "15",
     "name": "Hallmark Channel East",
     "hls": "https://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://moviedelic.com/wp-content/uploads/2024/05/Hallmark-Channel.jpg?resize=1536,875",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png"
   },
   {
     "id": "Hallmark.Family.HDTV.us",
     "categoryId": "15",
     "name": "Hallmark Drama",
     "hls": "https://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://hallmark.brightspotcdn.com/dims4/default/e4ca1bf/2147483647/strip/true/crop/1200x560+0+0/resize/1200x560!/quality/90/?url=http%3A%2F%2Fhallmark-channel-brightspot.s3.amazonaws.com%2Ffd%2F64%2Fbb66e56b48fa8b63b9cc40a6ed92%2Fdigi24-hplus-website-banner-1200x560-clean.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hallmark_Family_2024.svg/512px-Hallmark_Family_2024.svg.png"
   },
   {
     "id": "Hallmark.Mystery.Eastern.-.HD.us",
     "categoryId": "20",
     "name": "Hallmark Movies Mysteries East",
     "hls": "https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://entertainmentnow.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-01-at-1.45.10-PM-e1614627988676.jpg",
+    "imageUrl": "https://i.imgur.com/GPRGA9C.png"
   },
   {
     "id": "HSN.Home.Shopping.Network.us",
     "categoryId": "26",
     "name": "HSN",
     "hls": "https://fl3.moveonjoy.com/HSN/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://i.ytimg.com/vi/1ph8qQnjXts/hq720.jpg?v=665e371d&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDuaHdse0VUm0f7wt1vC6Fuam04nA",
+    "imageUrl": "https://i.imgur.com/rnZN7rD.png"
   },
   {
     "id": "INSP.us",
     "categoryId": "23",
     "name": "INSP",
     "hls": "https://fl3.moveonjoy.com/INSP/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://variety.com/wp-content/uploads/2022/01/INSP-Logo.png?w=1000&h=628&crop=1",
+    "imageUrl": "https://i.imgur.com/YgOC51j.png"
   },
   {
     "id": "ION.Plus.TV.us",
     "categoryId": "16",
     "name": "ION Plus East",
     "hls": "https://fl3.moveonjoy.com/ION_Plus/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/484956647_1045828480923689_4665698894596456681_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=3_dddS6v0DwQ7kNvwHHyfMA&_nc_oc=AdnIpneLCsQw3XIwuyhHu-mv-Een9lWVuQM71kcGiurfQi1JgIPBjPc9ra8lH3_03Y0&_nc_zt=23&_nc_ht=scontent-los2-1.xx&_nc_gid=ePeMOpDg3jiUs9e1w9w5cQ&oh=00_AfYgZ3LUOH5N3pimMgo9_cerKBGLfati-djJJltI3XkM2Q&oe=68C4F486",
+    "imageUrl": "https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-1/464716862_943229887850216_2198949158680391101_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=eDJnnYP3HUIQ7kNvwFEwfpc&_nc_oc=Adl9BccDEv7sP7OnA-JDW-LGbkeI4DrVDDafslGJVgfNj9PjIwoHJPNb9GfdOk360vA&_nc_zt=24&_nc_ht=scontent-los2-1.xx&_nc_gid=ePeMOpDg3jiUs9e1w9w5cQ&oh=00_Afa_odAoYJnu3XY1mRYUYbR8vLengdPWYzbAwtkduBEuAg&oe=68C4FA65"
   },
   {
     "id": "ION..-.Eastern.Feed.us",
     "categoryId": "16",
     "name": "ION TV East",
     "hls": "https://fl3.moveonjoy.com/ION_TV/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/484956647_1045828480923689_4665698894596456681_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=3_dddS6v0DwQ7kNvwHHyfMA&_nc_oc=AdnIpneLCsQw3XIwuyhHu-mv-Een9lWVuQM71kcGiurfQi1JgIPBjPc9ra8lH3_03Y0&_nc_zt=23&_nc_ht=scontent-los2-1.xx&_nc_gid=ePeMOpDg3jiUs9e1w9w5cQ&oh=00_AfYgZ3LUOH5N3pimMgo9_cerKBGLfati-djJJltI3XkM2Q&oe=68C4F486",
+    "imageUrl": "https://img.utdstc.com/icon/59f/22b/59f22b476da0c5378fb4b7609d73469dabdfef417b0eed147f599e0be2eb44da:200"
   },
   {
     "id": "Lifetime.Network.US.-.Eastern.Feed.us",
     "categoryId": "19",
     "name": "Lifetime East",
     "hls": "https://fl3.moveonjoy.com/LIFETIME/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://imageresizer.static9.net.au/y4mRxH6H7peyZrN4UOZgvqaoBcg=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F01%2F658789%2Fstandardcard.png",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png"
   },
   {
     "id": "Lifetime.Movies.-.East.us",
     "categoryId": "20",
     "name": "Lifetime Movies East",
     "hls": "https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://imageresizer.static9.net.au/y4mRxH6H7peyZrN4UOZgvqaoBcg=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F01%2F658789%2Fstandardcard.png",
+    "imageUrl": "https://i.postimg.cc/RZGmYyTt/lifetimemovies.png"
   },
   {
     "id": "Love.Nature.ca",
     "categoryId": "12",
     "name": "Love Nature",
     "hls": "https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://i.ytimg.com/vi/LtCdqpyoRjw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGBggXihyMA8=&rs=AOn4CLBV0qQmQ7b8XmTaWNREsYV8iGuCBw",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png"
   },
   {
     "id": "plex.tv.MAVTV.Select.plex",
     "categoryId": "5",
     "name": "MAV TV",
     "hls": "https://fl3.moveonjoy.com/MAV_TV/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://i.ytimg.com/vi/i1xbeRWVYK8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAXKKaaolVuukJMlrkGHNBwjfScZA",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRId6fAztoaqtzFRt18Lshi6gWUdRXSX6eONA&s"
   },
   {
     "id": "MGM+.HDTV.(East).(MGM+HD).us",
     "categoryId": "20",
     "name": "MGM+ East",
     "hls": "https://fl3.moveonjoy.com/EPIX/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://www.channelcanada.com/wp-content/uploads/2023/05/MGM-Plus.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png"
   },
   {
     "id": "MGM+.Marquee.HDTV.(East).(MGM+MRQ).us",
     "categoryId": "20",
     "name": "MGM+ Marquee",
     "hls": "https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://www.channelcanada.com/wp-content/uploads/2023/05/MGM-Plus.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png"
   },
   {
     "id": "MLB.Network.us",
     "categoryId": "4",
     "name": "MLB Network",
     "hls": "https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://image.discovery.indazn.com/ca/v2/ca/image?id=oujgtbpdbgg41eb1ynteb1fg5_image-header_pDach_1661949080000&quality=70",
+    "imageUrl": "https://i.imgur.com/sA5V39D.png"
   },
   {
     "id": "MSG.2.us",
     "categoryId": "4",
     "name": "MSG",
     "hls": "https://fl3.moveonjoy.com/MSG/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://www.newscaststudio.com/wp-content/gallery/msg-sports/MSG-Network_02.jpeg",
+    "imageUrl": "https://i.imgur.com/SEQFh0P.png"
   },
   {
     "id": "MTV.2.-.East.us",
     "categoryId": "3",
     "name": "MTV2",
     "hls": "https://fl5.moveonjoy.com/MTV_2/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://i.ytimg.com/vi/GqEfScHEjeA/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AG-B4AC0AWKAgwIABABGHIgYSgqMA8=&rs=AOn4CLDTsvNeeJdM7lSqzP4eZwqJD2B2FQ",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png"
   },
   {
     "id": "MTV.2.-.East.us",
     "categoryId": "3",
     "name": "MTV2 East",
     "hls": "https://fl3.moveonjoy.com/MTV_2/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://i.ytimg.com/vi/GqEfScHEjeA/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AG-B4AC0AWKAgwIABABGHIgYSgqMA8=&rs=AOn4CLDTsvNeeJdM7lSqzP4eZwqJD2B2FQ",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png"
   },
   {
     "id": "MTV.Classic.-.East.us",
     "categoryId": "3",
     "name": "MTV Classic",
     "hls": "https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://stopbeingpolite.com/wp-content/uploads/2016/08/mtv-classic.jpg",
+    "imageUrl": "https://i.imgur.com/NPavpts.png"
   },
   {
     "id": "MTV.Classic.-.East.us",
     "categoryId": "3",
     "name": "MTV Classic East",
     "hls": "https://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://stopbeingpolite.com/wp-content/uploads/2016/08/mtv-classic.jpg",
+    "imageUrl": "https://i.imgur.com/NPavpts.png"
   },
   {
     "id": "MTV.USA.-.Eastern.Feed.us",
     "categoryId": "3",
     "name": "MTV East",
     "hls": "https://fl3.moveonjoy.com/MTV/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://w0.peakpx.com/wallpaper/631/540/HD-wallpaper-mtv-music-entertainment-video-90s.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png"
   },
   {
     "id": "MTV.Live.HD.us",
     "categoryId": "3",
     "name": "MTV Live",
     "hls": "https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://cdn.dribbble.com/userupload/17016811/file/original-e88d07015229228e0018a73b25a48aa5.png?format=webp&resize=400x300&vertical=center",
+    "imageUrl": "https://i.imgur.com/3UByLqb.png"
   },
   {
     "id": "MTV.Live.HD.us",
     "categoryId": "3",
     "name": "MTV Live",
     "hls": "https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://cdn.dribbble.com/userupload/17016811/file/original-e88d07015229228e0018a73b25a48aa5.png?format=webp&resize=400x300&vertical=center",
+    "imageUrl": "https://i.imgur.com/3UByLqb.png"
   },
   {
     "id": "MTV-U.(MTV-U).us",
     "categoryId": "3",
     "name": "mtvU",
     "hls": "https://fl5.moveonjoy.com/MTV_U/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://cdn.dribbble.com/userupload/17016811/file/original-e88d07015229228e0018a73b25a48aa5.png?format=webp&resize=400x300&vertical=center",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png"
   },
   {
     "id": "MTV-U.(MTV-U).us",
     "categoryId": "3",
     "name": "MTVU",
     "hls": "https://fl3.moveonjoy.com/MTV_U/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://cdn.dribbble.com/userupload/17016811/file/original-e88d07015229228e0018a73b25a48aa5.png?format=webp&resize=400x300&vertical=center",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png"
   },
   {
     "id": "Much.Music.ca",
     "categoryId": "3",
     "name": "Much",
     "hls": "https://fl1.moveonjoy.com/MUCH/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://i.imgur.com/JjYki5V.png",
+    "imageUrl": "https://i.imgur.com/JjYki5V.png"
   },
   {
     "id": "National.Geographic.US.-.Eastern.us",
     "categoryId": "12",
     "name": "National Geographic East",
     "hls": "https://fl3.moveonjoy.com/National_Geographic/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"
   },
   {
     "id": "National.Geographic.Wild.us",
     "categoryId": "12",
     "name": "National Geographic Wild East",
     "hls": "https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://arata.lat/wp-content/uploads/2022/02/Nat-Geo-Wild.jpg",
+    "imageUrl": "https://i.imgur.com/HoeaQJC.png"
   },
   {
     "id": "NBA.TV.USA.us",
     "categoryId": "4",
     "name": "NBA TV",
     "hls": "https://fl3.moveonjoy.com/NBA_TV/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://www.newscaststudio.com/wp-content/uploads/2017/11/ncs_tencent-nba-tv-studio-clickspring_0001.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png"
   },
   {
     "id": "NewsNation.-.Eastern.Feed.us",
     "categoryId": "2",
     "name": "News Nation",
     "hls": "https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://www.newscaststudio.com/wp-content/uploads/2020/01/news-nation.jpg",
+    "imageUrl": "https://zap2it.tmsimg.com/h3/NowShowing/91097/s91097_ll_h15_ae.png?w=512"
   },
   {
     "id": "NFL.Network.us",
     "categoryId": "4",
     "name": "NFL Network",
     "hls": "https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png"
   },
   {
     "id": "NFL.RedZone.us",
     "categoryId": "4",
     "name": "NFL RedZone",
     "hls": "https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://image.discovery.indazn.com/ca/v2/ca/image?id=gsa8zt4wix4t1qrn35n59a9mm_image-header_pRow_1724360971000&quality=70",
+    "imageUrl": "https://i.imgur.com/5lPqQj5.png"
   },
   {
     "id": "NHL.Network.USA.us",
     "categoryId": "4",
     "name": "NHL Network",
     "hls": "https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1734622974/prd/l2vr8vovq31ybrugzo2t.png",
+    "imageUrl": "https://i.imgur.com/UNZ8bef.png"
   },
   {
     "id": "Nick.Jr..-.East.us",
     "categoryId": "17",
     "name": "Nick Jr East",
     "hls": "https://fl3.moveonjoy.com/NICK_JR/index.m3u8",
-    "backdrop": "",
-    "imageUrl": ""
+    "backdrop": "https://static.wikia.nocookie.net/42079d6d-3580-4be6-8531-7815e2c14eef",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"
   },
   {
     "id": "Nick.Jr..-.East.us",
     "categoryId": "17",
     "name": "Nick Jr. East",
     "hls": "https://fl5.moveonjoy.com/NICK_JR/index.m3u8",
-    "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgss4Yaa1v2HGte-wTUN8j4fQxmDMLzJjFhu2qY7naD7I4vXaWyrwOjqnOr9ASn3w8105XgB_Ax0tVBtL7-sM85ehjDoYP7mlDQHk44AbRsIARcQM1Wnf8mGCKsN2MR4xfkR3CBcRUSHbyfG5uqHMEzRnuKS7VBgs4uUGGnZLMXO75RrX5lfWud/w640-h360/nick-jr-uk-2024-rebrand.jpg",
+    "backdrop": "https://static.wikia.nocookie.net/431893c1-3be5-40dd-b6e7-2675b33eb9cc",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"
   },
   {
@@ -708,7 +708,7 @@
     "categoryId": "3",
     "name": "Nick Music",
     "hls": "https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8",
-    "backdrop": "https://static.wikia.nocookie.net/logopedia/images/f/f3/NickMusic_Splat.png/revision/latest/scale-to-width-down/1000?cb=20240129190704",
+    "backdrop": "https://i.ytimg.com/vi/QRfTdAoLPWo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBN3_pbQSLue8FoQ4XtF1ujlT_fIg",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png"
   },
   {
@@ -716,7 +716,7 @@
     "categoryId": "3",
     "name": "Nick Music",
     "hls": "https://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8",
-     "backdrop": "https://static.wikia.nocookie.net/logopedia/images/f/f3/NickMusic_Splat.png/revision/latest/scale-to-width-down/1000?cb=20240129190704",
+     "backdrop": "https://i.ytimg.com/vi/QRfTdAoLPWo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBN3_pbQSLue8FoQ4XtF1ujlT_fIg",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png"
   },
   {
@@ -724,7 +724,7 @@
     "categoryId": "17",
     "name": "Nickelodeon East",
     "hls": "https://fl5.moveonjoy.com/NICKELODEON/index.m3u8",
-    "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDDy1VGDaUsAiyZ7w31XR-O2ccfUKO6ZTYQXuKgC5wUyJeq-VUJhfuv1KIJ3KISCDAuMO-Ey6o_NRr1wXV_P9rplE8vO5iUQP4xq0Fc8REOWdxB3DcnsYrA-4RJVJ2TPklvHjdgtQLmOD8Oh238DGI2P3OMltziXmg0SiHBRTv6t_i-31uymqF/w640-h360/358136989_650403130449511_5003365621417520303_n.jpg",
+    "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYXQSRG9PMJ5FGopGKvevKEMxnwrgPcIl2L-h66mez4DI3naz8-pqEDaVEJAENEwQ5zwpc9tvuPKDtm7r27HkobIkPp2oOZ5tnc_0uRZ8JK8l5nWIRjDo2noGwGJd8wTh9MH9lkQfyd4vhxjEQOg6XtOYOSlmTGqGG9mOcFjf1moW1E1fC9uj2/s1920/F0neW9wXgAIuLil.jpg",
     "imageUrl": "https://i.imgur.com/E84jnP8.png"
   },
   {
@@ -732,7 +732,7 @@
     "categoryId": "17",
     "name": "Nicktoons East",
     "hls": "https://fl1.moveonjoy.com/NICKTOONS/index.m3u8",
-    "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYXQSRG9PMJ5FGopGKvevKEMxnwrgPcIl2L-h66mez4DI3naz8-pqEDaVEJAENEwQ5zwpc9tvuPKDtm7r27HkobIkPp2oOZ5tnc_0uRZ8JK8l5nWIRjDo2noGwGJd8wTh9MH9lkQfyd4vhxjEQOg6XtOYOSlmTGqGG9mOcFjf1moW1E1fC9uj2/w640-h360/F0neW9wXgAIuLil.jpg",
+    "backdrop": "https://i.ytimg.com/vi/w6JQG7Q2P0g/maxresdefault.jpg",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png"
   },
   {
