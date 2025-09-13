@@ -1195,5 +1195,349 @@
     "hls": "https://fl6.moveonjoy.com/YES_NETWORK/index.m3u8",
     "backdrop": "https://www.newscaststudio.com/wp-content/gallery/yes-network/ncs-yes-network-tv-studio.jpg",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/330px-YES_Network_logo.svg.png"
+  },
+  {
+    "id": "TeenNick.-.Eastern.us",
+    "categoryId": "17",
+    "iptvOrgId": "TeenNick.us",
+    "name": "TeenNick",
+    "hls": "https://fl6.moveonjoy.com/Teen_Nick/index.m3u8",
+    "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAeGcfY6iTSp7cO4T1CsSVmhTFFyX-68hOZS9LS4uA6cCzt6mcSBSqpRnlRfMYjdBLbth-sR_M2vwHS-3rypHVCe9Ik-YlIynuymnrYZUKUBhbbLqMt5eKu6zX5LF7563Aqyp7KssPwumzgmaRd2NSn0-M6FusdUZ2AB1MBL1Ax0W-VOEUFn8W/s1275/teennick-international-2023-2024-splat-rebrand-logo.png",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/512px-TeenNick_2019_logo.svg.png"
+  },
+  {
+    "id": "plex.tv.24.Hour.Free.Movies.plex",
+    "categoryId": "20",
+    "iptvOrgId": "24HourFreeMovies.us",
+    "name": "24 Hour Free Movies",
+    "hls": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
+    "backdrop": "https://provider-static.plex.tv/epg/images/ott_channels/arts/24hrfreemovies_artwork_horizontal-v2.jpg",
+    "imageUrl": "https://i.imgur.com/iSVnzR1.png"
+  },
+  {
+    "id": "30ATVClassicMovies.us",
+    "categoryId": "20",
+    "iptvOrgId": "30ATVClassicMovies.us",
+    "name": "30A TV Classic Movies",
+    "hls": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8",
+    "backdrop": "https://www.parsatv.com/index_files/channels/30atv2.jpg",
+    "imageUrl": "https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg"
+  },
+  {
+    "id": "AndFlix.HD.in",
+    "categoryId": "20",
+    "iptvOrgId": "Andflix.in@SD",
+    "name": "&flix",
+    "hls": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8",
+    "backdrop": "https://akamaividz2.zee5.com/image/upload/w_1623,h_914,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1170x658379547401.jpg",
+    "imageUrl": "https://i.imgur.com/WOyfzjC.png"
+  },
+  {
+    "id": "And.Pictures.in",
+    "categoryId": "20",
+    "iptvOrgId": "Andpictures.in",
+    "name": "&pictures",
+    "hls": "https://playyonogames.in/z5/stream.m3u8?id=0-9-tvpictureshd",
+    "backdrop": "https://multireach.in/wp-content/uploads/2025/06/Pictures-HD-1200x764.jpg",
+    "imageUrl": "https://i.imgur.com/VYh3V8E.png",
+    "isAuth": true,
+    "headers": {
+      "Referer": "https://onezoo.net",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "And.Prive.HD.in",
+    "categoryId": "20",
+    "iptvOrgId": "AndpriveHD.in",
+    "name": "&prive HD",
+    "hls": "https://playyonogames.in/z5/stream.m3u8?id=0-9-9z5543514",
+    "backdrop": "https://akamaividz2.zee5.com/image/upload/w_1623,h_914,c_scale,f_webp,q_auto:eco/resources/0-9-9z5543514/list/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.jpg",
+    "imageUrl": "https://i.imgur.com/qyyUlg3.png",
+    "isAuth": true,
+    "headers": {
+      "Referer": "https://onezoo.net",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "and.TV.in",
+    "categoryId": "20",
+    "iptvOrgId": "AndTV.in",
+    "name": "&TV",
+    "hls": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
+    "backdrop": "https://www.bizasialive.com/wp-content/uploads/2024/11/AndTV001.jpg",
+    "imageUrl": "https://i.imgur.com/32W50Y6.png",
+    "isAuth": false,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "and.xplorHD.in",
+    "categoryId": "20",
+    "iptvOrgId": "AndxplorHD.in",
+    "name": "&xplor HD",
+    "hls": "https://playyonogames.in/z5/stream.m3u8?id=0-9-209",
+    "backdrop": "https://multireach.in/wp-content/uploads/2023/04/xplor-HD-1-1200x764.jpg",
+    "imageUrl": "https://i.imgur.com/9mK6dgM.png",
+    "isAuth": true,
+    "headers": {
+      "Referer": "https://onezoo.net",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "ABNBibleMoviesChannel.us",
+    "categoryId": "20",
+    "iptvOrgId": "ABNBibleMoviesChannel.us",
+    "name": "ABN Bible Movies Channel",
+    "hls": "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8",
+    "backdrop": "https://static.wixstatic.com/media/175e85_3ca9053a051a42f49dd043dc4dc5034df002.jpg/v1/fill/w_320,h_180,enc_auto/file.jpeg%201x,%20https://static.wixstatic.com/media/175e85_3ca9053a051a42f49dd043dc4dc5034df002.jpg/v1/fill/w_640,h_360,enc_auto/file.jpeg%202x,%20https://static.wixstatic.com/media/175e85_3ca9053a051a42f49dd043dc4dc5034df002.jpg/v1/fill/w_960,h_540,enc_auto/file.jpeg%203x",
+    "imageUrl": "https://i.imgur.com/NCqZdaL.png",
+    "isAuth": false,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "AbzyDhakad.in",
+    "categoryId": "20",
+    "iptvOrgId": "AbzyDhakad.in",
+    "name": "Abzy Dhakad",
+    "hls": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8",
+    "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi28Pxbna3qu2GdPLn2xZ_-2R5gzT9xKQetvZmDpy5VQbBP6SD6T_cjyPbnjlsgIto2K9js-f7xMQEAklJVwMqBJ-_LTokdxJmKmtI1BoImOPzfLUMvrzn4wnUbNXgB19sZEhRPKxVB8mlaxpv9-CnbEVmdPWyTGiAH2muct4wZ2WMi0GChwzm6LJeM/w400-h300-rw/abzy-dhakad-logo.jpg",
+    "imageUrl": "https://i.imgur.com/5ORC4tn.png",
+    "isAuth": false,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "AbzyMovies.in",
+    "categoryId": "20",
+    "iptvOrgId": "AbzyMovies.in",
+    "name": "Abzy Movies",
+    "hls": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8",
+    "backdrop": "https://i.imgur.com/LnVgKVF.png",
+    "imageUrl": "https://i.imgur.com/LnVgKVF.png",
+    "isAuth": true,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "Action.24.gr",
+    "categoryId": "20",
+    "iptvOrgId": "Action24.gr",
+    "name": "Action 24",
+    "hls": "http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
+    "backdrop": "https://www.action24.gr/wp-content/uploads/2023/10/1180x620-action-movies.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",
+    "isAuth": false,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "AfghanNobelMovies.ca",
+    "categoryId": "20",
+    "iptvOrgId": "AfghanNobelMovies.ca",
+    "name": "Afghan Nobel Movies",
+    "hls": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8",
+    "backdrop": "https://www.parsatv.com/index_files/channels/nobelmovies.png",
+    "imageUrl": "https://i.ibb.co/zfdbVSm/logo-1.png",
+    "isAuth": false,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "EN:.Aflam.sa",
+    "categoryId": "20",
+    "iptvOrgId": "Aflam.sa",
+    "name": "Aflam",
+    "hls": "https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8",
+    "backdrop": "https://stmify.com/wp-content/uploads/2024/11/309-s.webp",
+    "imageUrl": "https://i.imgur.com/cTLj7Yt.png",
+    "isAuth": false,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "ABC.NEWS.us",
+    "categoryId": "1",
+    "iptvOrgId": "ABCNewsLive.us",
+    "name": "ABC News Live",
+    "hls": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+    "backdrop": "https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_608.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+    "isAuth": false,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "AlJazeera.English.net",
+    "categoryId": "1",
+    "iptvOrgId": "AlJazeera.qa",
+    "name": "Al Jazeera English",
+    "hls": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+    "backdrop": "https://cdn.broadbandtvnews.com/wp-content/uploads/2022/03/14110138/Al-Jazeera-Studio-2022.jpg",
+    "imageUrl": "https://i.imgur.com/7bRVpnu.png",
+    "isAuth": false,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "BBC.WS.uk",
+    "categoryId": "1",
+    "iptvOrgId": "BBCNews.uk",
+    "name": "BBC News",
+    "hls": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+    "backdrop": "https://ichef.bbci.co.uk/images/ic/480x270/p0gq408g.jpg",
+    "imageUrl": "https://i.imgur.com/vSz2WEp.png",
+    "isAuth": false,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "CNA.(HD).sg",
+    "categoryId": "1",
+    "iptvOrgId": "CNAInternational.sg",
+    "name": "CNA International",
+    "hls": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+    "backdrop": "https://britcham.org.sg/sites/default/files/2024-05/CNA%20launches%20on%20UK.jpg",
+    "imageUrl": "https://i.imgur.com/xWglicB.png",
+    "isAuth": false,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "DW.English.se",
+    "categoryId": "1",
+    "iptvOrgId": "DW.de",
+    "name": "DW English",
+    "hls": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+    "backdrop": "https://i.ytimg.com/vi/LuKwFajn37U/hq720.jpg?v=67ead53f&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBjmLf0mfTex_eXlChmgFnEoGOl4g",
+    "imageUrl": "https://i.imgur.com/8MRNFb9.png",
+    "isAuth": false,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "France.24.fr",
+    "categoryId": "1",
+    "iptvOrgId": "France24.fr",
+    "name": "France 24",
+    "hls": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
+    "backdrop": "https://media.licdn.com/dms/image/v2/C561BAQFUQh5Uz83_Rg/company-background_10000/company-background_10000/0/1584827114668/france_24_cover?e=2147483647&v=beta&t=Y6Ur_5pBgYtRvm5sFKfVkHq1asFVOe_FYcVFxySFHYg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg",
+    "isAuth": false,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "i24NEWS.ENGLISH.il",
+    "categoryId": "1",
+    "iptvOrgId": "i24NEWSEnglishWorld.il",
+    "name": "i24NEWS English World",
+    "hls": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8",
+    "backdrop": "https://i.ytimg.com/vi/SarsfipOS28/maxresdefault.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",
+    "isAuth": false,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "plex.tv.LiveNOW.from.FOX.plex",
+    "categoryId": "1",
+    "iptvOrgId": "LiveNOWfromFOX.us",
+    "name": "LiveNOW from FOX",
+    "hls": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+    "backdrop": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2022/12/764/432/LiveNOW_Website_og_image_1280x720.jpg?ve=1&tl=1",
+    "imageUrl": "https://i.imgur.com/1JnyzHv.png",
+    "isAuth": false,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "NHK.World.TV.us2",
+    "categoryId": "1",
+    "iptvOrgId": "NHKWorldJapan.jp",
+    "name": "NHK World-Japan",
+    "hls": "https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8",
+    "backdrop": "https://www.advanced-television.com/wp-content/uploads/2022/09/NHKworld.png",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",
+    "isAuth": false,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "RT.ru",
+    "categoryId": "1",
+    "iptvOrgId": "RT.ru",
+    "name": "RT",
+    "hls": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+    "backdrop": "",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+    "isAuth": false,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "",
+    "categoryId": "1",
+    "iptvOrgId": "ScrippsNews.us",
+    "name": "Scripps News",
+    "hls": "https://livetv-fa.tubi.video/scripps-news/playlist.m3u8",
+    "backdrop": "https://thedesk.net/wp-content/uploads/2024/04/BLANK-Scripps-News-Desk-2023-WEBP-TD.webp",
+    "imageUrl": "https://i.imgur.com/W0Jvi5o.png",
+    "isAuth": false,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
+  },
+  {
+    "id": "TRT.World.tr",
+    "categoryId": "1",
+    "iptvOrgId": "TRTWorld.tr",
+    "name": "TRT World",
+    "hls": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+    "backdrop": "https://i.ytimg.com/vi/epAzcnhjVZI/hq720.jpg?v=6719587b&sqp=CNy6wcUG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD4VXeVur7hphnHgaWo0OIRUYj8Qw",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png",
+    "isAuth": false,
+    "headers": {
+      "Referer": "",
+      "Authorization": ""
+    }
   }
 ]
