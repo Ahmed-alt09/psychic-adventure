@@ -19,7 +19,7 @@
     "id": "AMC.-.Eastern.Feed.us",
     "categoryId": "20",
     "name": "AMC East",
-    "hls": "https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8",
+    "hls": "https://fl6.moveonjoy.com/AMC_NETWORK/index.m3u8",
     "backdrop": "https://seriemaniacos.tv/wp-content/uploads/2017/11/AMC-1068x628.jpg",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png"
   },
@@ -187,7 +187,7 @@
     "id": "CNBC.World.us",
     "categoryId": "7",
     "name": "CNBC",
-    "hls": "https://fl5.moveonjoy.com/CNBC/index.m3u8",
+    "hls": "https://fl6.moveonjoy.com/CNBC/index.m3u8",
     "backdrop": "https://www.newscaststudio.com/wp-content/gallery/cnbc-current/ncs_cnbc-tv-studio_0008.JPG",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png"
   },
@@ -267,7 +267,7 @@
     "id": "Disney.-.Eastern.Feed.us",
     "categoryId": "17",
     "name": "Disney Channel East",
-    "hls": "https://fl5.moveonjoy.com/DISNEY/index.m3u8",
+    "hls": "https://fl6.moveonjoy.com/DISNEY/index.m3u8",
     "backdrop": "https://i.pinimg.com/736x/5e/3f/bb/5e3fbbf3c3b07f6775a8d2e3cade4bfe.jpg",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
   },
@@ -339,7 +339,7 @@
     "id": "FOX.(WNYW).New.York,.NY.us",
     "categoryId": "2",
     "name": "Fox News Channel",
-    "hls": "https://fl5.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8",
+    "hls": "https://fl6.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8",
     "backdrop": "https://www.newscaststudio.com/wp-content/uploads/2013/05/kttv_studio11.jpg",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png"
   },
@@ -387,7 +387,7 @@
     "id": "FX.Networks.East.Coast.us",
     "categoryId": "20",
     "name": "FX East",
-    "hls": "https://fl5.moveonjoy.com/FX/index.m3u8",
+    "hls": "https://fl6.moveonjoy.com/FX/index.m3u8",
     "backdrop": "https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/234109770_219146846798831_8331275047285769987_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=2285d6&_nc_ohc=ifBuuex8jGsQ7kNvwGXNuiy&_nc_oc=AdkUd91NjENB1-F2H2GlHiXTSP9v4-go7dmAt6X2TjuokDYXQN9V_iZreHW3KX0c_Is&_nc_zt=23&_nc_ht=scontent-los2-1.xx&_nc_gid=oBcKFguKpjHqrFvyGJQYuw&oh=00_AfbF_kLVxVVpLczURcstebyUgmleBzyyZtiwns5PWHpVAw&oe=68C408C9",
     "imageUrl": "https://i.postimg.cc/263GFb0J/fx.png"
   },
@@ -555,7 +555,7 @@
     "id": "MTV.2.-.East.us",
     "categoryId": "3",
     "name": "MTV2",
-    "hls": "https://fl5.moveonjoy.com/MTV_2/index.m3u8",
+    "hls": "https://fl6.moveonjoy.com/MTV_2/index.m3u8",
     "backdrop": "https://i.ytimg.com/vi/GqEfScHEjeA/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AG-B4AC0AWKAgwIABABGHIgYSgqMA8=&rs=AOn4CLDTsvNeeJdM7lSqzP4eZwqJD2B2FQ",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png"
   },
@@ -571,7 +571,7 @@
     "id": "MTV.Classic.-.East.us",
     "categoryId": "3",
     "name": "MTV Classic",
-    "hls": "https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8",
+    "hls": "https://fl6.moveonjoy.com/MTV_CLASSIC/index.m3u8",
     "backdrop": "https://stopbeingpolite.com/wp-content/uploads/2016/08/mtv-classic.jpg",
     "imageUrl": "https://i.imgur.com/NPavpts.png"
   },
@@ -595,7 +595,7 @@
     "id": "MTV.Live.HD.us",
     "categoryId": "3",
     "name": "MTV Live",
-    "hls": "https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8",
+    "hls": "https://fl6.moveonjoy.com/MTV_LIVE/index.m3u8",
     "backdrop": "https://cdn.dribbble.com/userupload/17016811/file/original-e88d07015229228e0018a73b25a48aa5.png?format=webp&resize=400x300&vertical=center",
     "imageUrl": "https://i.imgur.com/3UByLqb.png"
   },
@@ -611,7 +611,7 @@
     "id": "MTV-U.(MTV-U).us",
     "categoryId": "3",
     "name": "mtvU",
-    "hls": "https://fl5.moveonjoy.com/MTV_U/index.m3u8",
+    "hls": "https://fl6.moveonjoy.com/MTV_U/index.m3u8",
     "backdrop": "https://cdn.dribbble.com/userupload/17016811/file/original-e88d07015229228e0018a73b25a48aa5.png?format=webp&resize=400x300&vertical=center",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png"
   },
@@ -699,7 +699,7 @@
     "id": "Nick.Jr..-.East.us",
     "categoryId": "17",
     "name": "Nick Jr. East",
-    "hls": "https://fl5.moveonjoy.com/NICK_JR/index.m3u8",
+    "hls": "https://fl6.moveonjoy.com/NICK_JR/index.m3u8",
     "backdrop": "https://static.wikia.nocookie.net/431893c1-3be5-40dd-b6e7-2675b33eb9cc",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"
   },
@@ -715,7 +715,7 @@
     "id": "Nick.Music.(NICM).us",
     "categoryId": "3",
     "name": "Nick Music",
-    "hls": "https://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8",
+    "hls": "https://fl6.moveonjoy.com/NICK_MUSIC/index.m3u8",
      "backdrop": "https://i.ytimg.com/vi/QRfTdAoLPWo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBN3_pbQSLue8FoQ4XtF1ujlT_fIg",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png"
   },
@@ -723,7 +723,7 @@
     "id": "Nickelodeon.USA.-.East.Feed.us",
     "categoryId": "17",
     "name": "Nickelodeon East",
-    "hls": "https://fl5.moveonjoy.com/NICKELODEON/index.m3u8",
+    "hls": "https://fl6.moveonjoy.com/NICKELODEON/index.m3u8",
     "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYXQSRG9PMJ5FGopGKvevKEMxnwrgPcIl2L-h66mez4DI3naz8-pqEDaVEJAENEwQ5zwpc9tvuPKDtm7r27HkobIkPp2oOZ5tnc_0uRZ8JK8l5nWIRjDo2noGwGJd8wTh9MH9lkQfyd4vhxjEQOg6XtOYOSlmTGqGG9mOcFjf1moW1E1fC9uj2/s1920/F0neW9wXgAIuLil.jpg",
     "imageUrl": "https://i.imgur.com/E84jnP8.png"
   },
@@ -899,7 +899,7 @@
     "id": "Starz.Encore.Classic.-.Eastern.us",
     "categoryId": "20",
     "name": "Starz Encore Classic East",
-    "hls": "https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8",
+    "hls": "https://fl6.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8",
     "backdrop": "https://variety.com/wp-content/uploads/2016/03/starz_encore_id.jpg",
     "imageUrl": "https://i.imgur.com/5ieoKO1.png"
   },
@@ -939,7 +939,7 @@
     "id": "TSN1.ca",
     "categoryId": "4",
     "name": "TSN1",
-    "hls": "https://fl5.moveonjoy.com/TSN_1/index.m3u8",
+    "hls": "https://fl6.moveonjoy.com/TSN_1/index.m3u8",
     "backdrop": "https://stmify.com/wp-content/uploads/2025/03/576-s.webp",
     "imageUrl": "https://i.imgur.com/eRFE0jZ.png"
   },
@@ -947,7 +947,7 @@
     "id": "TSN2.ca",
     "categoryId": "4",
     "name": "TSN2",
-    "hls": "https://fl5.moveonjoy.com/TSN_2/index.m3u8",
+    "hls": "https://fl6.moveonjoy.com/TSN_2/index.m3u8",
     "backdrop": "https://stmify.com/wp-content/uploads/2025/03/577-s.webp",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png"
   },
@@ -955,7 +955,7 @@
     "id": "TSN3.ca",
     "categoryId": "4",
     "name": "TSN3",
-    "hls": "https://fl5.moveonjoy.com/TSN_3/index.m3u8",
+    "hls": "https://fl6.moveonjoy.com/TSN_3/index.m3u8",
     "backdrop": "https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png",
     "imageUrl": "https://i.imgur.com/AYza8KO.png"
   },
@@ -963,7 +963,7 @@
     "id": "TSN4.ca",
     "categoryId": "4",
     "name": "TSN4",
-    "hls": "https://fl5.moveonjoy.com/TSN_4/index.m3u8",
+    "hls": "https://fl6.moveonjoy.com/TSN_4/index.m3u8",
     "backdrop": "https://stmify.com/wp-content/uploads/2025/03/579-s.webp",
     "imageUrl": "https://i.imgur.com/qJyAWU8.png"
   },
@@ -971,7 +971,7 @@
     "id": "TSN5.ca",
     "categoryId": "4",
     "name": "TSN5",
-    "hls": "https://fl5.moveonjoy.com/TSN_5/index.m3u8",
+    "hls": "https://fl6.moveonjoy.com/TSN_5/index.m3u8",
     "backdrop": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
     "imageUrl": "https://i.imgur.com/HEzHpzz.png"
   },
